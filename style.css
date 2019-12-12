@@ -1,0 +1,81 @@
+/* style.css */
+body{
+  background: #6DAEDC;
+  color: white;
+  font-size: 25px;
+  font-family: 'Lato', sans-serif;
+}
+h1{
+  font-family: 'Lato', sans-serif;
+  color: white;
+  font-weight: lighter;
+  font-size: 100px;
+}
+h2 {
+  font-family: 'Lato', sans-serif;
+  color: white;
+  font-weight: lighter;
+  font-size: 50px;
+}
+h3 {
+  font-family: 'Geo', sans-serif;
+  color: white;
+  font-weight: lighter;
+  font-size: 50px;
+}
+a {
+  color: white;
+}
+a:hover {
+  text-decoration: none;
+  color: #FAAC58;
+}
+
+#banner {
+
+	background-image: url("images/giphy.gif");
+  background-size: cover;
+	padding: 150px 0px;
+  text-align: center;
+
+}
+
+#subtitle{
+
+  text-align: center;
+}
+.boxes {
+  align-items: center;
+padding: 30px 0;
+margin: 10px;
+text-align: center;
+font-weight: lighter;
+border-style: solid;
+border-color: white;
+border-radius: 10px;
+
+}
+#footer {
+  text-align: center;
+}
+
+#footer li {
+list-style: none;
+}
+
+#footer li {
+  display: inline;
+  padding: 15px;
+}
+
+.icone {
+  text-align: center;
+}
+
+
+
+font-family: 'Lato', sans-serif;
+font-family: 'Geo', sans-serif;
+
+
+
